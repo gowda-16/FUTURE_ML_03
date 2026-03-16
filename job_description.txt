@@ -1,0 +1,3 @@
+Looking for a Data Scientist with skills in Python,
+Machine Learning, Data Analysis, SQL, Pandas,
+Scikit-learn and NLP.

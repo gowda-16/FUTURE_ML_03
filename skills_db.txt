@@ -1,0 +1,19 @@
+python
+java
+sql
+machine learning
+deep learning
+data analysis
+nlp
+tensorflow
+pandas
+numpy
+scikit-learn
+flask
+django
+html
+css
+javascript
+aws
+docker
+kubernetes
